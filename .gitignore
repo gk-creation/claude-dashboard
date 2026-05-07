@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Dashboard data (personal, stored in ~/claude/)
+.dashboard_favorites.json
+.dashboard_notes.json
+.dashboard_recents.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
