@@ -1,8 +1,16 @@
 # Claude Files Dashboard
 
 A local file browser for your Claude projects — runs entirely on your Mac, no cloud, no account needed.
+<img width="1458" height="898" alt="Scherm­afbeelding 2026-05-07 om 07 47 12" src="https://github.com/user-attachments/assets/7eca10a0-db57-4377-96fb-3892afaaa7da" />
 
-![Claude Dashboard screenshot](https://github.com/user-attachments/assets/placeholder)
+Integrated bug, fixes en idea's notes -> marked and saved locally on the project folder ma
+<img width="299" height="856" alt="Scherm­afbeelding 2026-05-07 om 07 51 22" src="https://github.com/user-attachments/assets/0040f657-6420-48dd-a26d-8d921feff0cf" />
+
+Easy access to your locally hosted SKILL.md -> all skills are structered + easy to adjust and make annotions to it (saved locally)
+<img width="354" height="631" alt="Scherm­afbeelding 2026-05-07 om 07 50 16" src="https://github.com/user-attachments/assets/173a5213-e8e5-4691-98a1-213df16a8f42" />
+
+
+
 
 ## What it does
 
